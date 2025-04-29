@@ -1,4 +1,4 @@
-jobs:
+on:
   push:
     branches:
       - main
